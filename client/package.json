@@ -1,0 +1,81 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@ant-design/icons": "^5.0.1",
+    "@material-ui/core": "^4.12.3",
+    "@react-hook/window-size": "^3.1.1",
+    "@stripe/react-stripe-js": "^2.1.0",
+    "@stripe/stripe-js": "^1.54.0",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "add": "^2.0.6",
+    "antd": "^5.2.2",
+    "axios": "^1.3.4",
+    "bootstrap": "^5.2.3",
+    "echarts": "^5.4.2",
+    "echarts-for-react": "^3.0.2",
+    "echarts-wordcloud": "^2.1.0",
+    "firebase": "^9.17.1",
+    "font-awesome": "^4.7.0",
+    "fs": "^0.0.1-security",
+    "jwt-decode": "^3.1.2",
+    "leaflet": "^1.7.1",
+    "less": "^4.1.3",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4",
+    "nodemailer": "^6.9.3",
+    "react": "^18.2.0",
+    "react-chat-engine": "1.11.8",
+    "react-chat-widget": "2.1.5",
+    "react-dom": "^18.2.0",
+    "react-image-file-resizer": "^0.4.8",
+    "react-leaflet": "^3.2.5",
+    "react-map-gl": "^7.0.25",
+    "react-query": "^3.39.3",
+    "react-redux": "^8.0.5",
+    "react-responsive-carousel": "^3.2.23",
+    "react-router-dom": "^6.8.1",
+    "react-scripts": "5.0.1",
+    "react-scroll-to-bottom": "^4.2.0",
+    "react-star-ratings": "^2.3.0",
+    "react-to-print": "^2.14.13",
+    "react-toastify": "^9.1.1",
+    "react-wordcloud": "^1.2.7",
+    "recharts": "^2.6.2",
+    "redux": "^4.2.1",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-persist": "^6.0.0",
+    "sass": "^1.59.3",
+    "slugify": "^1.6.5",
+    "socket.io-client": "^4.7.1",
+    "swiper": "^9.2.4",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

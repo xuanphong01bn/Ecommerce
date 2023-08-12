@@ -1,0 +1,19 @@
+.title{
+    font-weight: bold;
+    font-size: 16px;
+}
+.progress{
+    padding: 12px;
+    
+    border-left: 1px solid rgba(0,0,0,0.1);
+    :global{
+        .ant-progress-line{
+            width: 70% !important;
+        }
+    }
+}
+.rate{
+    margin-top: 16px;
+    border: 1px solid rgba(0,0,0,0.1);
+    border-radius: 16px;
+}
